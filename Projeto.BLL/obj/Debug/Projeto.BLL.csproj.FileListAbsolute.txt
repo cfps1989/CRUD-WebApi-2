@@ -1,0 +1,13 @@
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\bin\Debug\Projeto.BLL.dll
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\bin\Debug\Projeto.BLL.pdb
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\bin\Debug\Projeto.DAL.dll
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\bin\Debug\Projeto.Entities.dll
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\bin\Debug\Projeto.DAL.pdb
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\bin\Debug\Projeto.DAL.dll.config
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\bin\Debug\Projeto.Entities.pdb
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\obj\Debug\Projeto.BLL.csprojAssemblyReference.cache
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\obj\Debug\Projeto.BLL.csproj.CopyComplete
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\obj\Debug\Projeto.BLL.dll
+C:\Users\Carlos Frederico\source\repos\Aula20\Projeto.BLL\obj\Debug\Projeto.BLL.pdb
